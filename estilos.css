@@ -1,0 +1,22 @@
+body{
+    border: 1px solid rgb(255, 0, 0);
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+}
+header nav ol{
+    text-align: center; 
+}
+header nav ol li{
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+    display: inline-block;
+    margin-right: 25px;
+    /* padding: 12px  */
+    padding: 10px 26px;
+}
+header nav ol li:hover{
+background-color: white;
+color: blue;
+}
